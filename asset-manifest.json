@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/animefriends/static/css/main.322bec15.chunk.css",
+    "main.js": "/animefriends/static/js/main.7dc2e6cf.chunk.js",
+    "main.js.map": "/animefriends/static/js/main.7dc2e6cf.chunk.js.map",
+    "runtime-main.js": "/animefriends/static/js/runtime-main.6d641e24.js",
+    "runtime-main.js.map": "/animefriends/static/js/runtime-main.6d641e24.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/animefriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.2ef95937.chunk.js": "/animefriends/static/js/2.2ef95937.chunk.js",
+    "static/js/2.2ef95937.chunk.js.map": "/animefriends/static/js/2.2ef95937.chunk.js.map",
+    "static/js/3.f8736c17.chunk.js": "/animefriends/static/js/3.f8736c17.chunk.js",
+    "static/js/3.f8736c17.chunk.js.map": "/animefriends/static/js/3.f8736c17.chunk.js.map",
+    "index.html": "/animefriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/animefriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.322bec15.chunk.css.map": "/animefriends/static/css/main.322bec15.chunk.css.map",
+    "static/js/2.2ef95937.chunk.js.LICENSE.txt": "/animefriends/static/js/2.2ef95937.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d641e24.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.2ef95937.chunk.js",
+    "static/css/main.322bec15.chunk.css",
+    "static/js/main.7dc2e6cf.chunk.js"
+  ]
+}
